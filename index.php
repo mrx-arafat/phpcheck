@@ -44,7 +44,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>🔍 Hello Arafat! PHP Environment Information</h1>
+            <h1>🔍 Hello check! PHP Environment Information</h1>
             <p>System Configuration & Details</p>
         </div>
         <div class="content">
