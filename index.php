@@ -264,12 +264,12 @@
             #phpinfo td, #phpinfo th { padding: 12px; }
             #phpinfo .e { width: 40%; }
         }
-    </style>
+    </style>`
 </head>
 <body>
     <div class="wrapper">
         <div class="header-section">
-            <h1>PHP Environment Hub</h1>
+            <h1>PHP Environment Hub Check</h1>
             <p>Advanced System Configuration & Runtime Insights</p>
         </div>
         
